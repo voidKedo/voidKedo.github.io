@@ -33,4 +33,3 @@ tags: [main]     # TAG names should always be lowercase
 ![Timetable 5PA](assets/img/TIMETABLE-2025-00/5PA.png)
 ![Timetable 5PSV](assets/img/TIMETABLE-2025-00/5PSV.png)
 ![Timetable 5SN](assets/img/TIMETABLE-2025-00/5SN.png)
-![Timetable 5TAS](assets/img/TIMETABLE-2025-00/5TAS.png)
