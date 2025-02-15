@@ -1,0 +1,13 @@
+---
+title: TIMETABLE-00
+date: 2025-02-15 01:50:00 +/-0000
+categories: [MAIN, ANNOUNCEMENT]
+tags: [main]     # TAG names should always be lowercase
+---
+## Welcome to this group! Here, students can share important school-related information—whether it's updates, events, or news—so that everyone stays informed. By sharing, you help fellow students and make the community stronger! The admins will review the information and make sure it's helpful to everyone. Together, we can create a better and more connected environment!
+
+![GROUP QR](assets/img/telegram/qrcode)
+
+https://t.me/+PGe92FLhavEzZDQ1
+
+-"Only through mutual help and support can we build a better community and make progress together."
