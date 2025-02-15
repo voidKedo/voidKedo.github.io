@@ -16,7 +16,7 @@ timezone:
 
 title: VOID # the main title
 
-tagline: WEBSITE OF SCHOOL INFO# it will display as the subtitle
+tagline: WEBSITE OF SCHOOL INFO # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
