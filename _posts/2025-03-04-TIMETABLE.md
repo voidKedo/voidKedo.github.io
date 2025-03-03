@@ -1,9 +1,10 @@
 ---
-title: TIMETABLE-2
-date: 2025-03-04 00:00:00 +/-0000
+title: TIMETABLE-02
+date: 1970-02-02 00:00:00 +/-0000
 categories: [MAIN, TIMETABLE]
 tags: [main]     # TAG names should always be lowercase
 ---
+
 ![Timetable 1A](assets/img/TIMETABLE-2025-02/1A.jpg)
 ![Timetable 1B](assets/img/TIMETABLE-2025-02/1B.jpg)
 ![Timetable 1C](assets/img/TIMETABLE-2025-02/1C.jpg)
