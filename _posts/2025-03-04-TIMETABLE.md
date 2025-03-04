@@ -26,7 +26,7 @@ tags: [main]     # TAG names should always be lowercase
 ![Timetable 4PA](assets/img/TIMETABLE-2025-02/4PA.jpg)
 ![Timetable 4PSV](assets/img/TIMETABLE-2025-02/4PSV.jpg)
 ![Timetable 4SN](assets/img/TIMETABLE-2025-02/4SN.jpg)
-![Timetable 4TWS](assets/img/TIMETABLE-2025-02/4TWS.jpg)
+![Timetable 4TSW](assets/img/TIMETABLE-2025-02/4TSW.jpg)
 ![Timetable 5A](assets/img/TIMETABLE-2025-02/5A.jpg)
 ![Timetable 5PA](assets/img/TIMETABLE-2025-02/5PA.jpg)
 ![Timetable 5PSV](assets/img/TIMETABLE-2025-02/5PSV.jpg)
