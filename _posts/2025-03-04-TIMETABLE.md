@@ -1,6 +1,6 @@
 ---
 title: TIMETABLE-02
-date: 2025-03-04 00:00:00 +/-0000
+date: 2025-03-03 00:00:00 +/-0000
 categories: [MAIN, TIMETABLE]
 tags: [main]     # TAG names should always be lowercase
 ---
