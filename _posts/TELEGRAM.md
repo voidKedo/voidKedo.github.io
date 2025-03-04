@@ -1,15 +1,10 @@
 ---
-title: TELEGRAM GROUP
-date: 2025-03-04 10:00:00 +/-0000
+title: TELEGRAM CHANNEL
+date: 2025-03-05 10:00:00 +/-0000
 categories: [MAIN, ANNOUNCEMENT]
 tags: [main]     # TAG names should always be lowercase
 ---
-## Welcome to this group! 
-## Here, students can share important school-related information—whether it's updates, events, or news—so that everyone stays informed. 
-## By sharing, you help fellow students and make the community stronger! 
-## The admins will review the information and make sure it's helpful to everyone. 
-## Together, we can create a better and more connected environment!
 
-![GROUP QR](assets/img/telegram/qrcode)
+![CHANNEL QR](assets/img/telegram/qrcode.jpg)
 
-[GROUP LINK](https://t.me/+PGe92FLhavEzZDQ1)
+[CHANNEL LINK](https://t.me/schooldata01)
